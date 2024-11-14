@@ -100,7 +100,7 @@
 
         <section id="masjid" class="grid">
             <h2>Masjid Agung Al-Jami' Pekalongan</h2>
-            <img src="masjid agung aljami pekalongan.jpg" alt="Masjid Agung Al-Jami Pekalongan">
+            <img src="Masjid Agung Al-Jami Pekalongan..jpg" alt="Masjid Agung Al-Jami Pekalongan">
             <p>Masjid Agung Al-Jami' Pekalongan bukan hanya sekadar tempat ibadah, tetapi juga merupakan pusat budaya dan sejarah yang kaya akan nilai-nilai keagamaan yang terletak di alun-alun kota Pekalongan.
                 Masjid ini dibangun pada tahun 1852 oleh Raden Ario Wirio Tumengung Adi Negoro, yang merupakan bupati Pekalongan ketiga.
                 Awalnya, masjid ini dikenal sebagai Masjid Besar Pekalongan sebelum berganti nama menjadi Masjid Agung Al-Jami' pada tahun 1968 atas saran Habib Ali bin Ahmad Al-Athas.
